@@ -1,2 +1,2 @@
 # myrepo
-Just simple repo
+Just simple repo, but I like it!
